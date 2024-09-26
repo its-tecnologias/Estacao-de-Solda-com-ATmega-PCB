@@ -32,7 +32,7 @@ A iTS Tecnologias sempre está atualizando as coisas para que você tenha a melh
 - **Animações de transição** – Porque quem não ama uma boa animação, certo?
 - **Protetor de tela embutido** – Para manter o OLED saudável e estiloso.
 - **Opção de virar a tela** – Se você está virando a estação, a tela acompanha.
-- **Suporte para inglês e chinês** – Poliglota sim, senhor!
+- **Suporte para portugês, inglês e chinês** – Poliglota sim, senhor!
 - **Senha de proteção ao iniciar** – Segurança extra para evitar acidentes.
 - **Ajuste da direção do botão** – Para quem gosta de personalizar tudo.
 - **Watchdog** – Se o sistema travar (o que é raro, mas acontece), ele reinicia automaticamente. Prático, não é?
